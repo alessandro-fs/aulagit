@@ -1,1 +1,2 @@
 teste texto arquiivo local
+editei o arquivo local no servidor remoto
