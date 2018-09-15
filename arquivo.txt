@@ -1,1 +1,3 @@
 teste
+
+nova informação adicionada para teste comando git blame
