@@ -1,1 +1,15 @@
+﻿teste
+nova informação adicionada para teste comando git blame
+
+alteração para teste de conflitos
+testes
+
+sdfsdfsdaf
+sdf
+sdaf
+sdf
+sdaf
+sdfsd
+]sdfsdfd
+
 ultima linha
